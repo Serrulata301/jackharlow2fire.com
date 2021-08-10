@@ -30,7 +30,12 @@ a {
                     <p align="center" style="font-size:25px">
                         <font color="white">
                             <a href="https://discord.gg/logic">We miss you <3
-                    <p      <a href="https://discord.gg//logic"><img width="301" src="https://user-images.githubusercontent.com/62368295/128834672-baa8e2e2-5be2-411e-99f7-a6bd452c20f2.jpg">
+                    <p      <a href="https://discord.gg//logic"><img width="301" src="https://user-images.githubusercontent.com/62368295/128835597-02a75424-062a-43eb-8921-ee95d37c2a1b.png">
+                    </p>
+                    <p align="center" style="font-size:25px">
+                        <font color="white">
+                            - Sincerely, Logic Discord.
+                        </font>
                     </p>
                             </a>
                         </font>
